@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-08 BZR 5360)-product   date = 2015-01-10T04:58:40 CET
+
+BeginCmp
+TimeStamp = /54AF6093;
+Reference = J1;
+ValeurCmp = RJ45_LEDS;
+IdModule  = Connectors:RJ45_LEDs;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AF6193;
+Reference = J2;
+ValeurCmp = RJ45_LEDS;
+IdModule  = Connectors:RJ45_LEDs;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A07FA0;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A07E0E;
+Reference = P2;
+ValeurCmp = CONN_9;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x09;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A07FEC;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A07FFB;
+Reference = P4;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A07E1D;
+Reference = P5;
+ValeurCmp = CONN_9;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x09;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A0800A;
+Reference = P6;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B0A2CA;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B0A2A2;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B0A24D;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+BeginCmp
+TimeStamp = /54B0A219;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SMD-0603_r;
+EndCmp
+
+EndListe
