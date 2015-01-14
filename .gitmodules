@@ -1,6 +1,3 @@
-[submodule "lib_kicad"]
-	path = lib_kicad
-	url = https://github.com/johslarsen/lib_kicad.git
 [submodule "lib/Connectors.pretty"]
 	path = lib/Connectors.pretty
-	url = git@github.com:johslarsen/Connectors.pretty
+	url = ../Connectors.pretty
